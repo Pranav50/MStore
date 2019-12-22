@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "32b9e1d17778e5145265",
+    "revision": "a7d2e16d8fa3325a2f63",
     "url": "/MStore/static/css/main.fd683adc.chunk.css"
   },
   {
-    "revision": "32b9e1d17778e5145265",
-    "url": "/MStore/static/js/main.454ee8b9.chunk.js"
+    "revision": "a7d2e16d8fa3325a2f63",
+    "url": "/MStore/static/js/main.4db0dc7f.chunk.js"
   },
   {
     "revision": "34b0b002d7a2b20fd514",
     "url": "/MStore/static/js/runtime~main.c81c7e33.js"
   },
   {
-    "revision": "6dff032a737886d507c0",
+    "revision": "8bc01286cd6f6d17539b",
     "url": "/MStore/static/css/2.e9156969.chunk.css"
   },
   {
-    "revision": "6dff032a737886d507c0",
-    "url": "/MStore/static/js/2.76a268bc.chunk.js"
+    "revision": "8bc01286cd6f6d17539b",
+    "url": "/MStore/static/js/2.d46eef0d.chunk.js"
   },
   {
     "revision": "c7704d100fa692a6406b316f096e55fd",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/MStore/static/media/oneplus.342ebb04.png"
   },
   {
-    "revision": "23b046dd5c15fd07eed09e225734515d",
+    "revision": "bcc842618691112e06f3bd0c03e62a76",
     "url": "/MStore/index.html"
   }
 ];
