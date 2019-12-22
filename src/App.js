@@ -13,7 +13,7 @@ import {BrowserRouter} from 'react-router-dom'
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename='/ImageFinder/'>
         <Navbars/>
         <Route render={({location}) => (
                   <Switch location={location}>
