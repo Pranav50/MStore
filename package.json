@@ -19,11 +19,14 @@
     "styled-components": "^4.2.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "http://Pranav50.github.io/MStore",
   "eslintConfig": {
     "extends": "react-app"
   },
