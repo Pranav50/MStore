@@ -45,6 +45,40 @@ box-shadow: 0px 14px 19px -3px rgba(0,0,0,0.75);
   background: #f1f2f6
 }
 
+/* .emptycart-bg {
+  background: #dff9fb;
+  width: 100%;
+  box-shadow: 0px 14px 19px -3px rgba(0,0,0,0.75);
+  margin: 20px;
+  border-radius: 10px;
+  margin-top:10%;
+  position: fixed;
+} */
+
+.jumbotron {
+  margin-top: 8%;
+  width: 80%;
+  margin: 10% 0 0 10%;
+  box-shadow: 0px 14px 19px -3px rgba(0,0,0,0.75);
+  position: fixed;
+}
+
+.jumbotron img {
+  margin: 0 0 0 15%;
+}
+
+@media only screen and (max-width: 768px) {
+  .jumbotron img {
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  .jumbotron {
+    margin-top: 16%;
+  }
+
+}
+
 .img-container {
   position: relative;
   overflow: hidden;

@@ -49,7 +49,7 @@ export default class Navbars extends Component {
         top: '0',
         width:'100%',
         zIndex:'1',
-        opacity: '0.70',
+        opacity: '0.96',
         borderRadius: '10px',
       };
 
