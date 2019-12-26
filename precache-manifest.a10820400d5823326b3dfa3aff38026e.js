@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "a7d2e16d8fa3325a2f63",
-    "url": "/MStore/static/css/main.fd683adc.chunk.css"
+    "revision": "9edbc7cffe2fd52e15a3",
+    "url": "/MStore/static/css/main.451e800e.chunk.css"
   },
   {
-    "revision": "a7d2e16d8fa3325a2f63",
-    "url": "/MStore/static/js/main.4db0dc7f.chunk.js"
+    "revision": "9edbc7cffe2fd52e15a3",
+    "url": "/MStore/static/js/main.379f8c42.chunk.js"
   },
   {
     "revision": "34b0b002d7a2b20fd514",
     "url": "/MStore/static/js/runtime~main.c81c7e33.js"
   },
   {
-    "revision": "8bc01286cd6f6d17539b",
-    "url": "/MStore/static/css/2.e9156969.chunk.css"
+    "revision": "088eccb9c049b0da9b42",
+    "url": "/MStore/static/css/2.48ace37c.chunk.css"
   },
   {
-    "revision": "8bc01286cd6f6d17539b",
-    "url": "/MStore/static/js/2.d46eef0d.chunk.js"
+    "revision": "088eccb9c049b0da9b42",
+    "url": "/MStore/static/js/2.a08ec497.chunk.js"
   },
   {
     "revision": "c7704d100fa692a6406b316f096e55fd",
@@ -68,7 +68,11 @@ self.__precacheManifest = [
     "url": "/MStore/static/media/oneplus.342ebb04.png"
   },
   {
-    "revision": "bcc842618691112e06f3bd0c03e62a76",
+    "revision": "afa6a28d0ee0b5e7d55b7a5aecdfedec",
+    "url": "/MStore/static/media/empty-cart.afa6a28d.png"
+  },
+  {
+    "revision": "757091b021c8590b58faa092eacc8643",
     "url": "/MStore/index.html"
   }
 ];
